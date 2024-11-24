@@ -11,7 +11,7 @@ public class TelevisionsController {
     @GetMapping
     public ResponseEntity<String> getAllTelevisions() {
 
-        ResponseEntity.ok("television");
+       return ResponseEntity.ok("television");
     }
 
     // GET request voor 1 televisie
