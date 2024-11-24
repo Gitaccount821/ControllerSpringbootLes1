@@ -1,10 +1,10 @@
-package nl.novi.controllerspringbootles1;
+package nl.novi.TechItEasy;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ControllerSpringbootLes1ApplicationTests {
+class TechItEasyApplicationTests {
 
     @Test
     void contextLoads() {

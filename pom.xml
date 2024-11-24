@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>nl.novi</groupId>
-    <artifactId>Controller-SpringbootLes1</artifactId>
+    <artifactId>TechItEasy</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>Controller-SpringbootLes1</name>
     <description>Controller-SpringbootLes1</description>
